@@ -1,0 +1,18 @@
+=== README ===
+
+This is a simple API wrapper for the tinysong.com website. 
+It allows you to search for music and limit the results.
+
+
+=== USAGE ===
+
+Can be used as a module or a standalone application
+
+As module:
+  from pygroove import search
+
+  search(search_term, limit)
+
+=== License ===
+
+MIT License
