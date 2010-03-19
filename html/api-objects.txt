@@ -1,0 +1,7 @@
+pygroove	pygroove-module.html
+pygroove.search	pygroove-module.html#search
+pygroove.main	pygroove-module.html#main
+pygroove.LIMIT_URL	pygroove-module.html#LIMIT_URL
+pygroove.__package__	pygroove-module.html#__package__
+pygroove.NOLIMIT_URL	pygroove-module.html#NOLIMIT_URL
+pygroove.usage	pygroove-module.html#usage
